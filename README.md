@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/67290471/98474970-50f5c700-21d4-11eb-9775-1c70c648e01a.gif" alt="Vue Counter" height="40%" width="40%"/>
-</p>
-
 <h1 align="center">:zero: Vue Counter</h1>
 
 <h3 align="center">Meu primeiro projeto com Vue.js</h3>
@@ -11,6 +7,12 @@
   <a href="#techs">Tecnologias</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 
   <a href="#learn">O que eu aprendi</a> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; 
   <a href="#use">Como usar</a> &nbsp;&nbsp;&nbsp; 
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/67290471/98474970-50f5c700-21d4-11eb-9775-1c70c648e01a.gif" alt="Vue Counter" height="40%" width="40%"/>
 </p>
 
 <br>
